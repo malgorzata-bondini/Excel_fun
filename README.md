@@ -6,8 +6,8 @@ Yes, Excel. Yes, macros. Yes, I chose chaos.
 ---
 
 ## Files
-- 🎆 `Happy New Year Card.xlsm`
 - 🎄 `Merry Christmas Card.xlsm`
+- 🎆 `Happy New Year Card.xlsm`
 
 <img src="https://media1.tenor.com/m/J-dpLvlk_MQAAAAd/christmas-xmas.gif"
      alt="Card animation"
@@ -16,7 +16,6 @@ Yes, Excel. Yes, macros. Yes, I chose chaos.
      style="width:250px;height:250px;object-fit:cover;">
 
 ## What’s inside
-- Buttons / macros to run it
 - Mildly questionable design decisions
 
 ## How to run (aka: let the macros live)
